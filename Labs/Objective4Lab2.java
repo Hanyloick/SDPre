@@ -33,7 +33,6 @@ public class Objective4Lab2 {
       //TODO print the three ints and their sum.
 
     System.out.println("The Sum of " + num1 + "+" + num2 + "+" + num3 + "=" + sumInt);
-// System.out.println("The product of " + firstNumber + " and " + second number + " is " product + ".");
       //TODO print the three doubles and their sum.
     
     System.out.println("The Sum of " + dub1 + " + " + dub2 + " + " + dub3 + " = " + sumDouble);
