@@ -1,7 +1,6 @@
 public class Objective5Lab1 {
   public static void main(String[] args) {
-    int num1 = 5;
-    int num2 = 15;
+    int num1 = 5, num2 = 15;
 
     /*
       Fill in the following logic conditions
